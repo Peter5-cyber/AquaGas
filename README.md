@@ -1,5 +1,5 @@
 # Payment
 
-A new Flutter project created with FlutLab 
+A new Flutter project created with Flutter 
 
 
